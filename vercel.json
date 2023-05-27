@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "/api/proxy"
+      "destination": "chatgpt.1234789.xyz"
     },
     { "source": "/:path*", "destination": "/index.html" }
   ]
