@@ -2,7 +2,7 @@
 	"rewrites": [
 		{
 			"source": "/api/(.*)",
-			"destination": "chatgptv1.1234789.xyz/$1"
+			"destination": "https://vvvvchatgpt.1234789.xyz/$1"
 		},
 		{ "source": "/:path*", "destination": "/index.html" }
 	]
